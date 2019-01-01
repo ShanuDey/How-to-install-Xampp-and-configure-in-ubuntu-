@@ -30,11 +30,12 @@ How to install Xampp and configure in ubuntu?
 
 ### Note
 1) For more information about chmod type : man chmod or Google it
-  chmod XYZ -R /opt/lampp/htdocs
-  X-> User permission
-  Y-> Group permission
-  Z-> Others permission
-  -R (Recussively) flag is used to give this pemission all the subdirectory of that directory.
+
+#### chmod XYZ -R /opt/lampp/htdocs
+1)  X-> User permission
+2)  Y-> Group permission
+3)  Z-> Others permission
+4)  -R (Recussively) flag is used to give this pemission all the subdirectory of that directory.
   
   ## Hope you enjoyed. Put a start on this repo. Thank you. 
   
