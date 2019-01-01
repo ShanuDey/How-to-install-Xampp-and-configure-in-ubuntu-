@@ -1,5 +1,4 @@
-# How-to-install-Xampp-and-configure-in-ubuntu-
-How to install Xampp and configure in ubuntu?
+# How to install Xampp and configure in ubuntu?
 
 # Installation
 1) Download xampp from official website.
@@ -15,7 +14,7 @@ How to install Xampp and configure in ubuntu?
 1) Starting xampp -> "sudo /opt/lampp/xampp start"
 2) Stoping xampp -> "sudo /opt/lampp/xampp stop"
 3) Status of services -> "sudo /opt/lampp/xampp status"
-4) You may also use "sudo ./opt/lampp/lampp start". (Note lamp=>/opt/lampp/xapp)
+4) You may also use "sudo ./opt/lampp/lampp start". (Note lampp=>/opt/lampp/xapp)
 
 # Configure 
 1) Change htdocs folder is not permissible we need sudo everytime.
@@ -43,5 +42,5 @@ How to install Xampp and configure in ubuntu?
 3)  Z-> Others permission
 4)  -R (Recussively) flag is used to give this pemission all the subdirectory of that directory.
   
-  ## Hope you enjoyed. Put a start on this repo. Thank you. 
+## Hope you enjoyed. Put a start on this repo. Thank you. 
   
