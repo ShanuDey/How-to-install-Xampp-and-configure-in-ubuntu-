@@ -41,7 +41,7 @@
 2)  Y-> Group permission
 3)  Z-> Others permission
 4)  -R (Recussively) flag is used to give this pemission all the subdirectory of that directory.
-5) X, Y, Z arre octal numbers <br/>
+5) X, Y, Z are octal numbers <br/>
   0 = --- <br/>
   1 = --x<br/>
   2 = -w-<br/>
