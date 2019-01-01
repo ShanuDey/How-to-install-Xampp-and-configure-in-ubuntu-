@@ -41,15 +41,15 @@
 2)  Y-> Group permission
 3)  Z-> Others permission
 4)  -R (Recussively) flag is used to give this pemission all the subdirectory of that directory.
-5) X, Y, Z arre octal numbers 
+5) X, Y, Z arre octal numbers <br/>
   0 = --- <br/>
-  1 = --x
-  2 = -w-
-  3 = -wx
-  4 = r-
-  5 = r-x
-  6 = rw-
-  7 = rwx
+  1 = --x<br/>
+  2 = -w-<br/>
+  3 = -wx<br/>
+  4 = r-<br/>
+  5 = r-x<br/>
+  6 = rw-<br/>
+  7 = rwx<br/>
   
 ## Hope you enjoyed. Put a start on this repo. Thank you. 
   
