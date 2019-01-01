@@ -11,6 +11,12 @@ How to install Xampp and configure in ubuntu?
 7) Start all services
 8) Test in browser. Visit : http://localhost
 
+# Terminal commands
+1) Starting xampp -> "sudo /opt/lampp/xampp start"
+2) Stoping xampp -> "sudo /opt/lampp/xampp stop"
+3) Status of services -> "sudo /opt/lampp/xampp status"
+4) You may also use "sudo ./opt/lampp/lampp start". (Note lamp=>/opt/lampp/xapp)
+
 # Configure 
 1) Change htdocs folder is not permissible we need sudo everytime.
 2) "sudo chmod 777 -R /opt/lampp/htdocs" works but it has security issue.(Google it)
